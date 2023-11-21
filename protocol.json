@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Radiance",
+    "address": "0xceD9E5AB811af5aab9Dd8B61962312d88bfcf687"
+  },
+  { "name": "Stars", "address": "0x3b3edab64a95C48B086302107D33b1B58A44f631" },
+  { "name": "Glow", "address": "0xD79C4B672525A821CcCA40A067a3c10e4fb6A19f" },
+  { "name": "Oracle", "address": "0x9402F242dE91EA51a6f5248731beab43c466bA79" },
+  {
+    "name": "LP Boardroom",
+    "address": "0x9E51786B3D967aC0Bde34E03e5f3b79B184f4AF9"
+  },
+  {
+    "name": "SaS Boardroom",
+    "address": "0x5f97f6Cbb95f78Ee4dedC8AF9B507aDDBDbE6dd9"
+  },
+  {
+    "name": "Treasury",
+    "address": "0x79F32Ca68fe5ad98b55c3A65E80136b387597640"
+  },
+  { "name": "NFT", "address": "0xC99A96ddD74f2BA158CB085B80743F31Ec75D810" },
+  {
+    "name": "Team Distributor",
+    "address": "0x4F0c156D88257101D0C11A8Dd4Fe310CD149e049"
+  },
+  { "name": "LP Farm", "address": "0x72679796F8baB1f011137cE3A9B74D528811285d" }
+]
